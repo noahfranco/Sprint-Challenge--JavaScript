@@ -30,11 +30,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
-Answer: .map retuns a value and a new Array and .forEach can replace a for loop but dosent atucally retun anything. 
+Answer: .map retuns a value and a new Array and .forEach will not return a new Array 
 
 2. What is the difference between a function and a method?
 
-Answer: A function is a place to collect bits of data and then be able to use them latter. The differnce between a function and a method is 
+Answer: A function will return a value and a method will not. A method is a pretty much two functions. 
 
 3. What is closure?
 
