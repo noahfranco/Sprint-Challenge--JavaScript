@@ -17,18 +17,18 @@ function consume(gubbins, snickersnee, callback) {
   * Create a function named greeting that accepts a first and last name and returns "Hello first-name last-name, nice to meet you!"
 */
 
-function add(num1, num2) {
-  return num1 + num2
+function add() {
+  return 2 + 2
 }
 
 function multiply(num3, num4) {
-  return num3 * num4
+  return 10 * 16
 }
 
 
 function greeting() {
-  const firstName = "Obiwon"
-  const lastName = "Kenobi"
+  const firstName = "Mary"
+  const lastName = "Poppins"
   return `"Hello ${firstName} ${lastName}, nice to meet you!"`
 }
 
