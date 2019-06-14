@@ -50,7 +50,7 @@ Implicit Binding  - When you call a function and the function is invoked look to
 
 New Binding - is whenever you have a function invoked with the new keyword 
 
-Exolicit Binding - is when a function is in the global scope 
+Exolicit Binding - Binding the .this keyword using .call .apply .bind 
 
 
 5. Why do we need super() in an extended class?
